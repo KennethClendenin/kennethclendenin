@@ -8,6 +8,7 @@ This portfolio is just getting started — more projects are on the way. Each on
 ## ⚠️ Vulnerability Management Projects
 
 - **[Windows 11 STIG Implementations (PowerShell)](https://github.com/KennethClendenin/stig-windows11-hardening)**
+- **[Windows Server 2022 STIG Implementations (PowerShell)](https://github.com/KennethClendenin/stig-winserver2022-hardening/tree/main)**
 <!-- - **[Vulnerability Management Program Implementation](https://github.com/KennethClendenin/vulnerability-management-program)** -->
 
 <hr/>
