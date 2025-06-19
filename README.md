@@ -1,4 +1,5 @@
-# <a href="https://www.linkedin.com/in/kenneth-clendenin/">Kenneth Clendenin's</a> IT and Cybersecurity Project Portfolio 🔐
+# Kenneth Clendenin's IT and Cybersecurity Project Portfolio 🔐
+<!-- # <a href="https://www.linkedin.com/in/kenneth-clendenin/">Kenneth Clendenin's</a> IT and Cybersecurity Project Portfolio 🔐 -->
 
 I’m passionate about cybersecurity and thrive on solving real-world problems through hands-on projects. From hardening systems to automating remediation, I’m focused on building practical skills that reflect a strong security-first mindset.
 
