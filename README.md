@@ -6,7 +6,7 @@ I’m passionate about cybersecurity and thrive on solving real-world problems t
 This portfolio is just getting started — more projects are on the way. Each one is a step forward in my journey, driven by curiosity, discipline, and a commitment to doing things the right way.
 
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ System Hardening Projects
 
 - **[Windows 11 STIG Implementations (PowerShell)](https://github.com/KennethClendenin/stig-windows11-hardening)**
 - **[Windows Server 2022 STIG Implementations (PowerShell)](https://github.com/KennethClendenin/stig-winserver2022-hardening)**
